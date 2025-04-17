@@ -11,5 +11,13 @@ public class demo{
             }
             a++;
         }
+        int[] num = {1, 2, 3, 4};
+        for(int i=0;i<=5;i++){
+            System.out.println("java");
+            for (int j = 1; j < num.length;j++){
+                System.out.println("programming");
+            }
+
+        }
     }
 }
